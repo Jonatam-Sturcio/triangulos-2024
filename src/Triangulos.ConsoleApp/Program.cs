@@ -20,7 +20,7 @@
                     Console.ReadLine();
                     Console.Clear();
                 }
-            });
+            }
         }
     }
 }
